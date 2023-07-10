@@ -38,7 +38,7 @@
   --header-primary: #a86373;
   --interactive-normal: #a86373;
   --channels-default: #a86373;
-
+  --channel-unread: var(--main-color);
   --text-muted: #a86373;
   --interactive-muted: #cf92a0;
 
