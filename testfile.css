@@ -70,22 +70,11 @@
   --scrollbar-auto-track: var(--background-secondary-alt);
   --scrollbar-thin-thumb: var(--background-tertiary);
   --scrollbar-thin-track: transparent;
-  --channels-default: #f8e1e5;
+
   /* Other */
   --channel-text-area-placeholder: var(--interactive-normal);
   --deprecated-quickswitcher-input-background: var(--background-primary);
-}
-.theme-dark .channelIconDefault-2Nn_1R:before {
-  content: "";
-  position: absolute;
-  top: 0;
-  left: 0;
-  right: 0;
-  bottom: 0;
-  border-radius: 50%;
-  background-color: #f8e1e5; /* Use the same color as --channels-default */
-  box-shadow: 0 0 8px 4px #f8e1e5; /* Adjust the blur radius and spread values as desired */
-  pointer-events: none;
+  --channels-default: #ff0000;
 }
 .colorBrand-3cPPsm {
   color: #c5536c;
@@ -176,4 +165,3 @@
 .colorDefault-CDqZdO:active:not(.hideInteraction-2jPGL_) {
   color: var(--interactive-normal);
 }
-
