@@ -38,7 +38,7 @@
   --text-normal: #f8e1e5;
   --header-primary: #f8e1e5;
   --interactive-normal: #fab1bd;
-  --channels-default: #f8e1e5;
+  --channels-default: var(--main-color);
 
   --text-muted: #e2c1c7;
   --interactive-muted: #ad8c91;
@@ -74,7 +74,6 @@
   /* Other */
   --channel-text-area-placeholder: var(--interactive-normal);
   --deprecated-quickswitcher-input-background: var(--background-primary);
-  --channels-default: #ff0000;
 }
 .colorBrand-3cPPsm {
   color: #c5536c;
