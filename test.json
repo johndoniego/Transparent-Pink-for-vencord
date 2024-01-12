@@ -97,10 +97,10 @@
             "#372E29"
         ],
         "CHANNELS_DEFAULT": [
-            "#9E8376"
+            "#9E8376","#FFECEF"
         ],
         "TEXT_LINK": [
-            "#9E8376"
+            "#9E8376","#eca1ac"
         ],
         "TEXT_DANGER": [
             "#503E38"
@@ -137,7 +137,7 @@
         "WHITE_500": "#EFDFD7",
         "GREEN_360": "#503E38",
 
-            
+            "PRIMARY_460":"#FFECEF",
             "PRIMARY_130":"#eca1ac"
     },
 "background": {
